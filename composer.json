@@ -1,0 +1,15 @@
+{
+    "name": "user/clean-php",
+    "autoload": {
+        "psr-4": {
+            "User\\CleanPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Matos",
+            "email": "paulo.matos@forpeople.io"
+        }
+    ],
+    "require": {}
+}
